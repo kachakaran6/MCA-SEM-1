@@ -1,3 +1,4 @@
+Non-It
 MCA Sem 1 Repository
 This repository contains various projects and code implementations for the MCA Semester 1 course. The content is organized into the following topics:
 
